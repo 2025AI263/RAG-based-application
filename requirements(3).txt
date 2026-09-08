@@ -3,4 +3,4 @@ groq
 pypdf
 sentence-transformers
 faiss-cpu
-numpy<2
+numpy
