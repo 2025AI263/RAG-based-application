@@ -2,7 +2,7 @@ import os
 import tempfile
 from typing import List, Tuple
 
-import faiss up
+import faiss 
 import numpy as np
 import streamlit as st
 from pypdf import PdfReader
