@@ -2,5 +2,5 @@ streamlit
 groq
 pypdf
 sentence-transformers
-faiss-cpu==1.8.0.post1
+faiss-cpu
 numpy<2
